@@ -1,0 +1,14 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+React	/Users/clay/Projects/unicorn-tv/tutorials/ReactNativeBlog/components/articles.js	/^var React = require('react-native');$/;"	variable	line:3
+styles	/Users/clay/Projects/unicorn-tv/tutorials/ReactNativeBlog/components/articles.js	/^var styles = StyleSheet.create({$/;"	variable	line:14
+REQUEST_URL	/Users/clay/Projects/unicorn-tv/tutorials/ReactNativeBlog/components/articles.js	/^var REQUEST_URL = 'https:\/\/unicorn.tv\/api\/articles?topic=swift&api_key=l9461I3z9XhP983b14P25JSjZvuBJ6BI';$/;"	variable	line:25
+getInitialState	/Users/clay/Projects/unicorn-tv/tutorials/ReactNativeBlog/components/articles.js	/^  getInitialState: function() {$/;"	function	line:29
+fetchData	/Users/clay/Projects/unicorn-tv/tutorials/ReactNativeBlog/components/articles.js	/^  fetchData: function() {$/;"	function	line:38
+render	/Users/clay/Projects/unicorn-tv/tutorials/ReactNativeBlog/components/articles.js	/^  render: function() {$/;"	function	line:50
+renderLoadingView	/Users/clay/Projects/unicorn-tv/tutorials/ReactNativeBlog/components/articles.js	/^  renderLoadingView: function() {$/;"	function	line:64
+Articles	/Users/clay/Projects/unicorn-tv/tutorials/ReactNativeBlog/components/articles.js	/^var Articles = React.createClass({$/;"	variable	line:27
