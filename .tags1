@@ -5,10 +5,14 @@
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
 React	/Users/clay/Projects/unicorn-tv/tutorials/ReactNativeBlog/components/articles.js	/^var React = require('react-native');$/;"	variable	line:3
+Detail	/Users/clay/Projects/unicorn-tv/tutorials/ReactNativeBlog/components/articles.js	/^var Detail = require('.\/detail');$/;"	variable	line:4
 styles	/Users/clay/Projects/unicorn-tv/tutorials/ReactNativeBlog/components/articles.js	/^var styles = StyleSheet.create({$/;"	variable	line:14
-REQUEST_URL	/Users/clay/Projects/unicorn-tv/tutorials/ReactNativeBlog/components/articles.js	/^var REQUEST_URL = 'https:\/\/unicorn.tv\/api\/articles?topic=swift&api_key=l9461I3z9XhP983b14P25JSjZvuBJ6BI';$/;"	variable	line:25
-getInitialState	/Users/clay/Projects/unicorn-tv/tutorials/ReactNativeBlog/components/articles.js	/^  getInitialState: function() {$/;"	function	line:29
-fetchData	/Users/clay/Projects/unicorn-tv/tutorials/ReactNativeBlog/components/articles.js	/^  fetchData: function() {$/;"	function	line:38
-render	/Users/clay/Projects/unicorn-tv/tutorials/ReactNativeBlog/components/articles.js	/^  render: function() {$/;"	function	line:50
-renderLoadingView	/Users/clay/Projects/unicorn-tv/tutorials/ReactNativeBlog/components/articles.js	/^  renderLoadingView: function() {$/;"	function	line:64
-Articles	/Users/clay/Projects/unicorn-tv/tutorials/ReactNativeBlog/components/articles.js	/^var Articles = React.createClass({$/;"	variable	line:27
+REQUEST_URL	/Users/clay/Projects/unicorn-tv/tutorials/ReactNativeBlog/components/articles.js	/^var REQUEST_URL = 'http:\/\/unicorn.local:3000\/api\/articles?topic=swift&api_key=l9461I3z9XhP983b14P25JSjZvuBJ6BI';$/;"	variable	line:62
+getInitialState	/Users/clay/Projects/unicorn-tv/tutorials/ReactNativeBlog/components/articles.js	/^  getInitialState: function() {$/;"	function	line:66
+fetchData	/Users/clay/Projects/unicorn-tv/tutorials/ReactNativeBlog/components/articles.js	/^  fetchData: function() {$/;"	function	line:75
+componentDidMount	/Users/clay/Projects/unicorn-tv/tutorials/ReactNativeBlog/components/articles.js	/^  componentDidMount: function() {$/;"	function	line:89
+render	/Users/clay/Projects/unicorn-tv/tutorials/ReactNativeBlog/components/articles.js	/^  render: function() {$/;"	function	line:93
+renderRow	/Users/clay/Projects/unicorn-tv/tutorials/ReactNativeBlog/components/articles.js	/^  renderRow: function(data) {$/;"	function	line:107
+rowPressed	/Users/clay/Projects/unicorn-tv/tutorials/ReactNativeBlog/components/articles.js	/^  rowPressed: function (data) {$/;"	function	line:123
+renderLoadingView	/Users/clay/Projects/unicorn-tv/tutorials/ReactNativeBlog/components/articles.js	/^  renderLoadingView: function() {$/;"	function	line:134
+Articles	/Users/clay/Projects/unicorn-tv/tutorials/ReactNativeBlog/components/articles.js	/^var Articles = React.createClass({$/;"	variable	line:64
